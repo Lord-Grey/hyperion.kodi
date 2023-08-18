@@ -45,4 +45,4 @@ jobs:
     - name: Publish release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "${ADDON_NAME}-*.zip"
+        artifacts: "*.zip"
