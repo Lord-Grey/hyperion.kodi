@@ -21,7 +21,7 @@
     <license>MIT</license>
     <news>
       20.0.2
-      - Python < 3.10 compatibility
+      - Python lower then 3.10 compatibility
       20.0.1
       - Clean-ups
       - Handle missing PIL library on Android
